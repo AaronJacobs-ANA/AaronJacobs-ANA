@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronJacobs-ANA
 - 👀 I’m interested in Learning about all kinds of Languages and Development 
-- 🌱 I’m currently learning Java, HTML, MySQL
+- 🌱 I’m currently learning Java, HTML, MySQL, Python 
 - 💞️ I’m looking to collaborate on Projects and just help each other
 - 📫 How to reach me: aaron.paul.jacobs@zdh.thm.de
 
